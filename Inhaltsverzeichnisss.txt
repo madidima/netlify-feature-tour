@@ -1,0 +1,15 @@
+Rel-SP.txt  =   relevante_informationen_stichpunkte.txt
+                RELevant-StichPunkte
+
+Rel-AF.txt   =  relevante_informationen_ausführlich.txt
+                RELevant-AusFührlich
+
+HSI-SP.txt   =  humor_soziales_interaktion_stichpunkte.txt
+                HumorSozialesInteraktion-StichPunkte
+
+
+HSI-AF.txt   =  humor_soziales_interaktion_AusFührlich.txt
+                 HumorSozialesInteraktion-AusFührlich
+
+Diskus.txt   =   potenziale_ki_diskussion.txt
+OF.txt
